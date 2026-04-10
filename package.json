@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-itabus",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Itabus da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-itabus",
+    "voucher-itabus",
+    "coupon-itabus",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/itabus.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-itabus.git"
+  }
+}
